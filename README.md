@@ -2,7 +2,7 @@
 
 Introduction
  - This program was developed in the Fall of 2020 in collaboration with other students in class at the University of Wisconsin-Madison.
- - The purpose of this program is to simulate a modern GPS app at a high level, such as this one:
+ - The purpose of this program is to simulate a modern GPS app, such as this one:
  https://www.rome2rio.com/map/West-Ruislip-Station/Epping-Station-England
  - This project was developed almost entirely using Java based programming (including JUnit testing) with the exception of Make (which was used for construction).
  
